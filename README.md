@@ -1,2 +1,1 @@
-# eastwind
-Eastwind
+# Eastwind
