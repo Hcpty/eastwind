@@ -1,3 +1,3 @@
-# Southeastwind
+# Southeast
 
-In general, Southeastwind is a web operating system.
+In general, Southeast is a web operating system.
